@@ -17,8 +17,10 @@ Criar uma ETL simples para ler arquivos do tipo Json, concatenar diversos esses 
 
 ### 1. Desenhar o Fluxo da Solução:
 
-<img src="image-1.png"
-width="100px"/>
+<br/>
+<p align="center" width="100%">
+    <img width="40%" src="image-1.png"> 
+</p>
 
 
 **<br/>As tarefas são as seguintes:**
