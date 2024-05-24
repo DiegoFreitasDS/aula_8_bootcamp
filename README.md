@@ -19,7 +19,7 @@ Criar uma ETL simples para ler arquivos do tipo Json, concatenar diversos esses 
 
 <br/>
 <p align="center" width="100%">
-    <img width="40%" src="image-1.png"> 
+    <img width="20%" src="image-1.png"> 
 </p>
 
 
